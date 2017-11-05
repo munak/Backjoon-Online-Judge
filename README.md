@@ -2,6 +2,6 @@
 My solutions to some of the BOJ
 
 ## Link
-[acmicpc.net](https://www.acmicpc.net)
+BOJ : [acmicpc.net](https://www.acmicpc.net)
 
-[koosa.ga](https://koosa.ga)
+curriculum : [koosa.ga](https://koosa.ga)
