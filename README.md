@@ -5,4 +5,3 @@ My solutions to some of the BOJ
 BOJ : [acmicpc.net](https://www.acmicpc.net)
 
 curriculum : [koosa.ga](https://koosa.ga)
-
