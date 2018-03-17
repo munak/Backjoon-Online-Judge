@@ -4,4 +4,4 @@ My solutions to some of the BOJ
 ## Link
 BOJ : [acmicpc.net](https://www.acmicpc.net)
 
-curriculum : ~~[koosa.ga](https://koosa.ga)~~
+curriculum : [koosa.ga](https://koosa.ga)
