@@ -56,4 +56,5 @@ public class Main {
 		}
 		resultNum.add(reNum);
 	}
+	
 }
